@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544037495 source:d:\programovani\co delat\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
